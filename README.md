@@ -53,7 +53,7 @@ AJAX form submission handler
         <input type="hidden" name="csrf_token" value="fc9ce0bc686072e655cdc408e83bcf403af583e1">  
     </p>
 </form>
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 <script src="/js/jquery.gtdsubscription.min.js"></script>
 <script>
 (function($){
